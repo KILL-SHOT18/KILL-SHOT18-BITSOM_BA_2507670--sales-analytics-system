@@ -1,0 +1,9 @@
+
+SALES ANALYTICS REPORT
+=====================
+
+Total Revenue: ₹3,568,566
+Top Product: Laptop
+Top Customer ID: C004
+Top Performing Region: North
+Average Order Value: ₹48,884.47
